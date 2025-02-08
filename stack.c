@@ -37,8 +37,8 @@ void main(){
         printf("\n");
             break;
         }
+   
     }
-    
     
 
 }
